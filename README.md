@@ -1,5 +1,3 @@
- Real Estate Market Dashboard
-
 ## Overview
 This project is a Power BI dashboard designed to provide insights into the real estate market in Saudi Arabia for the second quarter. It uses data from the Saudi Data and Artificial Intelligence Authority (SDAIA) and is published by the Ministry of Justice, Saudi Arabia. The dashboard aims to help potential property buyers analyze market trends by visualizing data on property types, sizes, prices, locations, and revenue generated.
 

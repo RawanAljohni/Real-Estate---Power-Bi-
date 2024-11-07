@@ -4,7 +4,7 @@ This project is a Power BI dashboard designed to provide insights into the real 
 ## Data Source
 - Source: [SDAIA - Open Data Platform](https://www.data.gov.sa/)
 - Publisher: Ministry of Justice, Kingdom of Saudi Arabia
-- Time Period: Q2
+
 
 ## Project Goals
 - Empower property buyers with comprehensive market information.
